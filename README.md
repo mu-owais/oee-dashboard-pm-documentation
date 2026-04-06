@@ -1,6 +1,6 @@
 # Real-Time OEE Dashboard — Product Management Documentation
 
-**Client:** Constantia Flexibles · Packaging Industry · Bavaria, Germany
+**Client:** OTH Amberg-Weiden x Constantia Flexibles
 **Course:** Project Management and Agile Methods — OTH Amberg-Weiden
 **Team:** 5 members · **Duration:** Mid-October – December 4, 2025 (~7 weeks)
 **My role:** Project Manager + cross-functional contributor across all four work packages
@@ -67,10 +67,6 @@ work packages either as sole owner or co-owner.
 - Built all four dashboard panels
 - Developed trend and historical visualizations
 - Enforced Corporate Identity standards across all views
-
-**WP4 — QA and Logic (sole owner)**
-- Developed all core DAX measures: Availability, Performance, Quality
-- Ran OEE calculation validation against the ±3% accuracy target
 
 ---
 
