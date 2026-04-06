@@ -68,10 +68,6 @@ work packages either as sole owner or co-owner.
 - Developed trend and historical visualizations
 - Enforced Corporate Identity standards across all views
 
-**WP4 — QA and Logic (sole owner)**
-- Developed all core DAX measures: Availability, Performance, Quality
-- Ran OEE calculation validation against the ±3% accuracy target
-
 ---
 
 ## How the Project Was Managed
