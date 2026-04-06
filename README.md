@@ -1,6 +1,6 @@
 # Real-Time OEE Dashboard — Product Management Documentation
 
-**Client:** Constantia Flexibles · Packaging Industry · Bavaria, Germany
+**Client:** OTH Amberg-Weiden x Constantia Flexibles
 **Course:** Project Management and Agile Methods — OTH Amberg-Weiden
 **Team:** 5 members · **Duration:** Mid-October – December 4, 2025 (~7 weeks)
 **My role:** Project Manager + cross-functional contributor across all four work packages
